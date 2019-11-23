@@ -593,6 +593,10 @@ td, th {
   text-align: right;
 }
 
+.submit-btn {
+
+}
+
 .flex {
   display: -webkit-box;
   display: -webkit-flex;
@@ -1992,8 +1996,8 @@ nav a:hover {
   line-height: 40px;
   padding: 0 30px;
   border-radius: 20px;
-  background: transparent;
-  border: 1px solid #fff;
+  background-color:#89FBDE;
+  border: 1px solid #89FBDE;
   color: #222222;
   display: inline-block;
   font-weight: 500;
