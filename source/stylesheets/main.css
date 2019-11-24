@@ -1979,9 +1979,9 @@ nav a:hover {
 }
 
 .p1-gradient-bg, .primary-btn:after, .is-sticky .default-header, .single-img, .member-area .overlay-bg, .contact-area .primary-btn, .footer-social a:hover {
-  background-image: -moz-linear-gradient(0deg, #89FBDE 0%, #F9F586 100%);
   background-image: -webkit-linear-gradient(0deg, #89FBDE 0%, #F9F586 100%);
-  background-image: -ms-linear-gradient(0deg, #89FBDE 0%, #F9F586 100%);
+  /* background-image: -moz-linear-gradient(0deg, #89FBDE 0%, #F9F586 100%); */
+  /* background-image: -ms-linear-gradient(0deg, #89FBDE 0%, #F9F586 100%); */
 }
 
 .p1-gradient-color, .about-details h2 {
